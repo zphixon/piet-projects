@@ -11,7 +11,10 @@ line)
 
 ![hello](https://raw.githubusercontent.com/cheezgi/piet-projects/master/hello.png)
 
-This program *is* a `Hello, world!` program.
+This program *is* a `Hello, world!` program. If this is your first time looking
+at Piet, take a look at `hello-trace.png` to see what the program does. It will
+give you a pretty good idea of what's going on under the hood without having
+to worry about the DP or CC.
 
 ![guess](https://raw.githubusercontent.com/cheezgi/piet-projects/master/guess.png)
 
