@@ -1,7 +1,9 @@
 #piet projects
-I am currently fascinated with the esoteric programming language Piet, but at
-first I was kind of put off by the lack of information about Piet. There is
-one website that really helped me, but I didn't want to get into bad habits (?)
+I'm currently fascinated with the Piet esoteric programming language.
+It's a two-dimensional language that relies on the changes in hue and in
+value. I have a few sample programs here that I'm pretty proud to show off.
+
+Check out the `trace/` directory if you want to see how these programs execute.
 
 ##programs
 ![hi](https://raw.githubusercontent.com/cheezgi/piet-projects/master/hi.png)
