@@ -1,0 +1,49 @@
+#piet projects
+I am currently fascinated with the esoteric programming language Piet, but at
+first I was kind of put off by the lack of information about Piet. There is
+one website that really helped me, but I didn't want to get into bad habits (?)
+
+##programs
+![hi](https://raw.githubusercontent.com/cheezgi/piet-projects/master/hi.png)
+
+This program is a `Hello, world!` type program that prints out `Hi` (with a new
+line)
+
+![hello](https://raw.githubusercontent.com/cheezgi/piet-projects/master/hello.png)
+
+This program *is* a `Hello, world!` program.
+
+![guess](https://raw.githubusercontent.com/cheezgi/piet-projects/master/guess.png)
+
+This is a "guessing game" that asks the user for input and displays a win message
+as well as a lose message. Due to a lack of space at the end, I had to do some
+trickery as well as fighting with the codel chooser to get both messages to share
+a newline.
+
+This repository is far from finished, I will likely be adding more programs as
+finals finish up ;-;
+
+##tools
+I would be lying if I told you writing these programs was painless. I spent at
+least three hours on the guessing game today. Anyway:
+
+###editor
+Because these programs aren't text files, I obviously couldn't use vim. Instead,
+I used Gimp to export as .png/.ppm files. I also had to install a custom palette
+for Gimp so I wouldn't mess up the colors.
+
+###interpreter
+There's a list of interperetrs on [Piet's website](http://www.dangermouse.net/esoteric/piet.html).
+The one I used was `npiet`. I downloaded the source code and installed all the
+missing headers I needed to build it with png support. (I might convert the
+programs to .ppm format so those without the png version can run them)
+
+###debugger
+I didn't want to rely on some website to run my programs, so I used the `npiet`
+build I had (with png support) and ran them with -tpic. I just opened them in
+an image viewer and looked at where I went wrong.
+
+####sources
+Piet's website - http://www.dangermouse.net/esoteric/piet.html  
+npiet's website - http://www.bertnase.de/npiet/  
+Short tutorial - http://homepages.vub.ac.be/~diddesen/piet/index.html
