@@ -46,7 +46,8 @@ programs to .ppm format so those without the png version can run them)
 ###debugger
 I didn't want to rely on some website to run my programs, so I used the `npiet`
 build I had (with png support) and ran them with -tpic. I just opened them in
-an image viewer and looked at where I went wrong.
+an image viewer and looked at where I went wrong. See `trace/` for some examples
+of running a program with the -tpic flag.
 
 ####sources
 Piet's website - http://www.dangermouse.net/esoteric/piet.html  
