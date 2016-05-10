@@ -1,0 +1,17 @@
+#trace
+These files are the outputs of `npiet -tpic <file>` in png format. They are here
+to demonstrate the flow of a Piet program.
+
+##comparison
+This program compares a number from input with 5. If it is greater than 5, the
+program ends in the first capsule, and if it is less than 5, it ends in the
+third capsule.
+
+It is known after the first comparison that the number is less than or equal to
+5, so on the second comparison, we can conclude that the number is 5 if it is
+greater than 4.
+
+This program can be used in a few different ways, for example, you could emulate
+wq
+
+a while loop by removing the first codel and 
