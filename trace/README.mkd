@@ -2,7 +2,7 @@
 These files are the outputs of `npiet -tpic <file>` in png format. They are here
 to demonstrate the flow of a Piet program. ex:
 
-![while-trace](https://raw.githubusercontent.com/cheezgi/piet-projects/master/trace/while-trace.png)
+![comp-trace](https://raw.githubusercontenet.com/cheezgi/piet-projects/master/trace/comp/equal.png)
 
 ##comparison
 This program compares a number from input with 5. If it is greater than 5, the
@@ -20,3 +20,5 @@ removing the first codel.
 This program is a demonstration of a 'while' loop in Piet. To 'write' it, I
 copy-pasted the comparison program I made and added an output and made it count
 up, then changed the comparison from 5 to 10.
+
+![while-trace](https://raw.githubusercontent.com/cheezgi/piet-projects/master/trace/while-trace.png)
