@@ -1,6 +1,8 @@
 #trace
 These files are the outputs of `npiet -tpic <file>` in png format. They are here
-to demonstrate the flow of a Piet program.
+to demonstrate the flow of a Piet program. ex:
+
+![while-trace](https://raw.githubusercontent.com/cheezgi/piet-projects/master/trace/while-trace.png)
 
 ##comparison
 This program compares a number from input with 5. If it is greater than 5, the
