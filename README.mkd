@@ -25,8 +25,15 @@ as well as a lose message. Due to a lack of space at the end, I had to do some
 trickery as well as fighting with the codel chooser to get both messages to share
 a newline.
 
-This repository is far from finished, I will likely be adding more programs as
-finals finish up ;-;
+![fizzbuzz](https://raw.githubusercontent.com/cheezgi/piet-projects/master/fizzbuzz.png)
+
+This is a fizzbuzz program that I made by hand. The only other fizzbuzz I've seen
+is one that was made with a Piet program generator. I think that's cheating, but
+that would have been *really* nice to have on this one.
+
+I set up the modulus stuff first, then added incrementation using the concepts
+from the while and comparison constructs I discovered. That single sentence
+encompassed at least 6 hours of painfully debugging, but it's worth it (I guess)
 
 ##tools
 I would be lying if I told you writing these programs was painless. I spent at
