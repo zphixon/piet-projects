@@ -15,3 +15,8 @@ greater than 4.
 
 Using this template, you could create a while loop, or possibly a for loop by
 removing the first codel.
+
+##while
+This program is a demonstration of a 'while' loop in Piet. To 'write' it, I
+copy-pasted the comparison program I made and added an output and made it count
+up, then changed the comparison from 5 to 10.
