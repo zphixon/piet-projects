@@ -11,7 +11,5 @@ It is known after the first comparison that the number is less than or equal to
 5, so on the second comparison, we can conclude that the number is 5 if it is
 greater than 4.
 
-This program can be used in a few different ways, for example, you could emulate
-wq
-
-a while loop by removing the first codel and 
+Using this template, you could create a while loop, or possibly a for loop by
+removing the first codel.
