@@ -1,7 +1,8 @@
 #piet projects
 I'm currently fascinated with the Piet esoteric programming language.
 It's a two-dimensional language that relies on the changes in hue and in
-value. I have a few sample programs here that I'm pretty proud to show off.
+value. I have a few sample programs here that I'm pretty proud to show off
+(also I needed a break from K&R making me feel stupid).
 
 Check out the `trace/` directory if you want to see how these programs execute.
 
