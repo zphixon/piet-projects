@@ -1,4 +1,4 @@
-#piet projects
+# piet projects
 I'm currently fascinated with the Piet esoteric programming language.
 It's a two-dimensional language that relies on the changes in hue and in
 value. I have a few sample programs here that I'm pretty proud to show off
@@ -6,7 +6,7 @@ value. I have a few sample programs here that I'm pretty proud to show off
 
 Check out the `trace/` directory if you want to see how these programs execute.
 
-##programs
+## programs
 ![hi](https://raw.githubusercontent.com/cheezgi/piet-projects/master/hi.png)
 
 This program is a `Hello, world!` type program that prints out `Hi` (with a new
@@ -36,28 +36,28 @@ I set up the modulus stuff first, then added incrementation using the concepts
 from the while and comparison constructs I discovered. That single sentence
 encompassed at least 6 hours of painfully debugging, but it's worth it (I guess)
 
-##tools
+## tools
 I would be lying if I told you writing these programs was painless. I spent at
-least three hours on the guessing game today. Anyway:
+least three hours on the guessing game. Anyway:
 
-###editor
+### editor
 Because these programs aren't text files, I obviously couldn't use vim. Instead,
 I used Gimp to export as .png/.ppm files. I also had to install a custom palette
 for Gimp so I wouldn't mess up the colors.
 
-###interpreter
+### interpreter
 There's a list of interperetrs on [Piet's website](http://www.dangermouse.net/esoteric/piet.html).
 The one I used was `npiet`. I downloaded the source code and installed all the
 missing headers I needed to build it with png support. (I might convert the
 programs to .ppm format so those without the png version can run them)
 
-###debugger
+### debugger
 I didn't want to rely on some website to run my programs, so I used the `npiet`
 build I had (with png support) and ran them with -tpic. I just opened them in
 an image viewer and looked at where I went wrong. See `trace/` for some examples
 of running a program with the -tpic flag.
 
-####sources
+#### sources
 Piet's website - http://www.dangermouse.net/esoteric/piet.html  
 npiet's website - http://www.bertnase.de/npiet/  
 Short tutorial - http://homepages.vub.ac.be/~diddesen/piet/index.html  
